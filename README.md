@@ -3,7 +3,7 @@
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg )](https://github.com/Thiagomrlimaaa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiagomrlimaaa?igshid=ymMyMTA2M2y=)
-[![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps:](https://www.linkedin.com/in/thiago-moreira-lima-124131235/))
+![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps:](https://www.linkedin.com/in/thiago-moreira-lima-124131235/))
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagomrlimaaa&show_icons=true&theme=dracula)
 
